@@ -1,12 +1,37 @@
-# React + Vite
+ [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SuganyaPrabagarane_onlineshop-redux&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=SuganyaPrabagarane_onlineshop-redux)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=SuganyaPrabagarane_onlineshop-redux)](https://sonarcloud.io/summary/new_code?id=SuganyaPrabagarane_onlineshop-redux) 
 
-Currently, two official plugins are available:
+# 🛍️ Online Shopping Redux
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a React application that demonstrates an **online shopping system** with **state management using Redux**.  
+It allows users to browse products, add them to the cart, and manage cart items efficiently.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+- Built with **React 19** and **Vite**
+- State management with **Redux Toolkit**
+- Component-based structure (`Products`, `Cart`, `Users`)
+- Routing with **React Router**
+- UI styled with **Material UI (MUI)**
+
+---
+
+## 🛠️ Tech Stack
+- **React** (Frontend library)
+- **Redux Toolkit** (State management)
+- **React Router** (Page navigation)
+- **Axios** (API calls, if needed)
+- **Material UI** (UI components)
+
+---
+
+## 📂 Project Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/onlineshop-redux.git
+cd onlineshop-redux
+
+ [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=SuganyaPrabagarane_onlineshop-redux)
