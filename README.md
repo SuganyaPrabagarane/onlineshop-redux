@@ -33,5 +33,6 @@ It allows users to browse products, add them to the cart, and manage cart items 
 ```bash
 git clone https://github.com/your-username/onlineshop-redux.git
 cd onlineshop-redux
+```
 
- [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=SuganyaPrabagarane_onlineshop-redux)
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=SuganyaPrabagarane_onlineshop-redux)
